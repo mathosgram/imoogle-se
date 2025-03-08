@@ -7,7 +7,7 @@ KEEP_ALIVE = "5m" # How long to keep Ollama models loaded into memory. (Instead 
 API_KEY = ""
 
 [MODELS.GROQ]
-API_KEY = ""
+API_KEY = "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"
 
 [MODELS.ANTHROPIC]
 API_KEY = ""
